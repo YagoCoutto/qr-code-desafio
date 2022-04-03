@@ -1,0 +1,21 @@
+@charset "UTF-8";
+
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+:root{
+    --cor01: #D5E1EF;
+    --cor02: #2B7DFA;
+}
+
+body{
+    min-height: 100vh;
+    background-color: var(--cor01);
+}
+
+.container{
+    width: 850px;
+    margin: auto;
+}
