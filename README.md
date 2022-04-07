@@ -1,5 +1,5 @@
 # componente de código QR 
- <a href="https://yagocoutto.github.io/qr-code-desafio/"> Visualize o resultado do desafio aqui</a>
+ <a href="https://yagocoutto.github.io/qr-code-desafio/" target="_blank" rel="noopener noreferrer"> Visualize o resultado do desafio aqui</a>
 
 
 Apresentação
